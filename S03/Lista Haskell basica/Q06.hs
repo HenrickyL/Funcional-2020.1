@@ -1,3 +1,5 @@
+module Q06 (pertence) where
+
 pertence :: Int -> [Int] -> Bool
 pertence x [] = False
 --recursive O(n)

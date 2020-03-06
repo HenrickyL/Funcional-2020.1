@@ -1,3 +1,4 @@
+module Q09 (frequencia) where
 frequencia :: Int -> [Int] -> Int
 frequencia x [] = 0
 frequencia x (k:[]) = if k == x then 1 else 0

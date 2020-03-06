@@ -1,4 +1,4 @@
-import Q15 (unique)
+--import Q15 (unique)
 menores :: Int -> [Int] -> [Int]
 {-
 menores 0 xs = []
