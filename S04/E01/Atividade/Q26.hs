@@ -1,1 +1,0 @@
-module Q26 where

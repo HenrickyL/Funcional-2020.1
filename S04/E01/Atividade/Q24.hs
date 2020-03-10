@@ -1,1 +1,0 @@
-module Q24 where

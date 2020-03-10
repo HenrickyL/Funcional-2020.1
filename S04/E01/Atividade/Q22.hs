@@ -1,1 +1,0 @@
-module Q22 where
