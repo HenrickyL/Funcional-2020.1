@@ -1,4 +1,4 @@
-module Q5 () where
+module Q5 (elemento) where
 
 elemento :: [Int] -> Int -> Int
 
