@@ -1,6 +1,7 @@
-module Q15 (unique) where
+module Q20 (intercal) where
 
-unique :: [Int] -> [Int]
+intercal :: [a] -> [a] -> [a]
 
-unique [] = []
-unique (x:xs) = x:(unique (filter (/=x) xs))
+intercal [] ys = ys
+intercal xs [] = xs
+intercal (x:xs) (y:ys) = x:y:(intercal xs ys) 

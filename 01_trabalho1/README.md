@@ -4,7 +4,7 @@ Fazer as 20 primeiras questões
 
 ## 1. **O que fez?**
 
-fiz todas as 20 questões
+18 questões. A 16 não está funcional, a 19 não consegui fazer (teria que olhar no que ja tinha feito).
 
 ## 2. **Como e com quem Fez?**
 
