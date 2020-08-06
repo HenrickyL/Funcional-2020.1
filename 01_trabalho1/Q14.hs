@@ -1,9 +1,5 @@
-module Q12 (concat') where
+module Q14 (corpo) where
 
-concat' :: [Int] -> [Int]-> [Int]
+corpo :: [Int] -> [Int]
 
--- deste jeito fica parecendo muito simples
--- concat xs ys = xs++ys
-
-concat' [] ys = ys
-concat' xs ys = concat' (init xs) ((last xs):ys)
+corpo =  reverse.drop 1 .reverse
