@@ -34,11 +34,11 @@ Filter, relembrei as funções de lista(head, lenght, last, init, tail, reverse,
 
 ## 4. **O que tem dificuldades ainda?**
 
-Ao recomeçar a fazer percebe-se que muito do conhecimento e prática se perderam. A forma de Recursão me parece mais aconchegante na maioria dos casos. Ainda tenho dificuldade em usar métodos compreenção de lista. 
+Ao recomeçar a fazer percebe-se que muito do conhecimento e prática se perderam. A forma de Recursão me parece mais aconchegante na maioria dos casos. Ainda tenho dificuldade em usar métodos compreenção de lista e não estou usando o where. 
 
 Tive dificuldade de refazer a 16.
 
 
 ## 5. **Quanto tempo levou pra fazer a atividade?**
 
-Cerca de 2h ou 3h
+Cerca de 2h ou 3h (sendo sincero, acabei deixando pra ultima hora)
